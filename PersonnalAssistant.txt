@@ -1,9 +1,9 @@
 ## Title: PersonnalAssistant
 ## Description: Quickly summon your assistant
-## Version: 19
-## AddOnVersion: 19
+## Version: 19.1
+## AddOnVersion: 19.1
 ## Author: Ayantir, Scootworks
-## APIVersion: 101032, 101033
+## APIVersion: 101034
 
 ; This Add-on is not created by, affiliated with or sponsored by ZeniMax
 ; Media Inc. or its affiliates. The Elder Scrolls and related logos are
